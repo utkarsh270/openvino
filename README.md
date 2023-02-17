@@ -1,5 +1,5 @@
 # openvino
-This repository contains all the necessary files required to setup OpenVINO on windows platform.
+This repository contains all the necessary files required to setup OpenVINO on Raspberry Pi 4.
 1.	Download and install Raspberry Pi imager from https://www.raspberrypi.com/software/
 2.	Select the OS as Raspberry Pi Legacy
 3.	Select the storage as your SD card.
